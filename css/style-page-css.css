@@ -1,0 +1,49 @@
+@charset "utf-8";
+body {
+    background-color: rgba(186,163,136,1.00);
+    color: rgba(255,255,255,1.00);
+}
+.pp_footer {
+    background-color: rgba(149,119,90,1.00);
+}
+.nav-style {
+    background-color: rgba(179,120,64,1.00);
+    font-family: lora;
+    font-style: normal;
+    font-weight: 400;
+}
+
+p {
+    font-family: Poppins, "Poppins Black", "Poppins Light", "Poppins Medium";
+    font-style: normal;
+    font-weight: 400;
+}
+.nav-link- {
+    font-family: lora;
+    font-style: normal;
+    font-weight: 350;
+    color: rgba(255,255,255,1.00);
+    text-align: center;
+}
+
+h5 {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+.card_ {
+    background-color: rgba(186,163,136,1.00);
+}
+.p {
+    font-family: Poppins, "Poppins Black", "Poppins Light", "Poppins Medium";
+    font-style: normal;
+    font-weight: 400;
+}
+.h5 {
+    font-family: lora;
+    font-style: normal;
+    font-weight: 400;
+}
+.img {
+}
